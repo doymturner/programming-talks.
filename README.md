@@ -1,4 +1,4 @@
-#Programming Talks
+# Programming Talks
 
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
 As I consider all Githubbers my friends (oh yeah!), I decided it's time to share the
