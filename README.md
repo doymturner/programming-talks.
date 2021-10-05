@@ -16,7 +16,7 @@ external sites (mostly YouTube, really), be aware of that. If you are one of the
 responsible for the talks or the platform presenting it and want it removed,
 tell me and I'll sort it out with you.
 
-###Names to look out for
+### Names to look out for
 
 To make choosing the right speakers a tad easier, let me give you a quick overview
 over my favourite speakers in no particular order:
@@ -46,13 +46,13 @@ and his way of talking is *just enjoyable* - you might think that is secondary, 
 important. His talk on Tolkien is one of the most enjoyable diversions on this list (and a bit off-topic,
 mind you).
 
-###On Programming Languages
+### On Programming Languages
 
-####C
+#### C
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell**
 * [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) by **Gilad Ben-Yossef**
 
-####Clojure
+#### Clojure
 * [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) [00:53:56] by **Rich Hickey & Brian Beckman** (it's not so much a talk as a conversation; awesome for beginners)
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) [02:32:39] by **Rich Hickey**
 * [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) by **Rich Hickey**
@@ -81,7 +81,7 @@ mind you).
 * [Why Is A Monad Like A Writing Desk?](http://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk) [00:30:38] by **Carin Meier**
 * [Parallel Programming, Fork Join, and Reducers](https://www.youtube.com/watch?v=eRq5UBx6cbA) [00:40:53] by **Daniel Higginbotham**
 
-####C++
+#### C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
 * [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) [00:46:47] by **Marc Mutz**
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) [01:17:00] by **Stephan Lavavej**
@@ -108,7 +108,7 @@ mind you).
 * [C++ on Mars: Incorporating C++ into Mars Rover Flight Software](https://www.youtube.com/watch?v=3SdSKZFoUa8) [01:26:18] by **Mark Maimone**
 * [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ) [01:00:03] by **Juan Pedro Bolívar**
 
-####CSS 
+#### CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
 * [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) [00:31:39] by **Angelina Fabbro**
 * [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) [00:51:26] by **Jonathan Snook**
@@ -116,12 +116,12 @@ mind you).
 * [Stuff About Cascading Style Sheets](https://www.youtube.com/watch?v=R_py8gCTTAc) [00:20:52] by **Mark Otto & Connor Sears**
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
 
-####D
+#### D
 * [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) [00:58:52] by **Walter Bright**
 * [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) [00:43:57] by **Maxime Chevalier-Boisvert**
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet**
 
-####Elixir
+#### Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) [00:49:42] by **Dave Thomas**
 * [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) [00:59:32] by **Jose Valim**
@@ -130,10 +130,10 @@ mind you).
 * [Learn Elixir: Building a Neural Network from Scratch](https://www.youtube.com/watch?v=YE0h9DURSOo) [00:32:26] by **Karmen Blake**
 * [Explicit Elixir](https://www.youtube.com/watch?v=sr5I5ncg0kU) [00:27:50] by **Paul Lamb**
 
-####Elm
+#### Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
 
-####Erlang
+#### Erlang
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garreth Smith**
 * [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) [00:37:24] by **Robert Virding**
 * [Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) [01:47:47] by **Robert Virding**
@@ -145,7 +145,7 @@ mind you).
 * [Chicago Boss: A Web Framework Built for Comfort (and Speed)](https://www.youtube.com/watch?v=LGGo6bIuj8w) [00:45:59] by **Evan Miller**
 * [Optimizing Native Code for Erlang](https://www.youtube.com/watch?v=57AkoJfojK8) [00:26:46] by **Steve Vinoski**
 
-####Go
+#### Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
 * [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) by **Rob Pike**
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) [00:34:11] by **Sameer Ajmani**
@@ -154,7 +154,7 @@ mind you).
 * [High Performance Systems in Go](https://www.youtube.com/watch?v=ylRKac5kSOk) [00:29:39] by **Derek Collison**
 * [Communicating Sequential Processes](https://www.youtube.com/watch?v=3gXWA6WEvOM) [00:43:21] by **Eric Shull**
 
-####Haskell
+#### Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) [01:04:35] by **Chris Taylor**
 * [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI) [00:29:37] by **Elise Huard**
@@ -169,10 +169,10 @@ mind you).
 * [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) [00:26:01] by **Richard A. Eisenberg**
 * [How Haskell is Changing my Brain](https://vimeo.com/96639840) by **Alissa Pajer**
 
-####Idris
+#### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
 
-####Java & Android
+#### Java & Android
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) [00:14:34] by **Josh Bloch**
 * [A Few Ok Libraries](https://www.youtube.com/watch?v=WvyScM_S88c) [01:09:20] by **Jake Wharton**
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
@@ -186,7 +186,7 @@ mind you).
 * [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) by **Charles Oliver Nutter**
 * [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon**
 
-####JavaScript
+#### JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
 * [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) [00:23:08] by **Edmond Meinfelder**
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
@@ -225,21 +225,21 @@ mind you).
 * [Ember 2.0](https://www.youtube.com/watch?v=U1HEzVWseng) [00:40:21] by **Erik Bryn**
 * [Solving the real callback hell](https://www.youtube.com/watch?v=Wu9n7Ry0PWw) [00:21:54] by **Tim Ruffles**
 
-####Julia
+#### Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
 * [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) [01:11:18] by **Stephen G. Johnson**
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) [00:40:12] by **Madeleine Udell**
 
-####Objective C
+#### Objective C
 * [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) [00:24:23] by **Dave Lee**
 
-####OCaml
+#### OCaml
 * [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky**
 
-####PureScript
+#### PureScript
 * [PureScript (Maybe This Time We Get JavaScript Right) [00:44:31]](https://www.youtube.com/watch?v=yIlDBPiMb0o) by **Bodil Stokke**
 
-####Python
+#### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler**
@@ -288,24 +288,24 @@ mind you).
 * [Does your stuff scale?](https://www.youtube.com/watch?v=LguTqd6CtOw) [00:24:31] by **Steven Holmes**
 * [Keynote at PyCon Brasil 2015](https://www.youtube.com/watch?v=lYe8W04ERnY) [00:56:29] by **David Beazley** (about asyncio)
 
-####Racket
+#### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
 * [Generic Syntax Expanders and Extensible Macros](https://www.youtube.com/watch?v=PoHGvY4RZ9U) [00:16:26] by **Jack Firth**
 * [Purely Functional 3D in Typed Racket](https://www.youtube.com/watch?v=t3xdv4UP9-U) [00:22:15] by **Neil Toronto**
 * [Racket: A Programming-Language Programming Language](https://www.youtube.com/watch?v=hFlIl0Zo234) [00:51:42] by **Robby Findler**
 
-####Ruby
+#### Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) [00:40:50] by **Tom Stuart**
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) by **Jim Weirich**
 * [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) [00:28:57] by **Dave Copeland**
 * [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) [00:31:24] by **Avdi Grimm**
 * [Building a binary protocol client in Ruby: A magical journey!](https://www.youtube.com/watch?v=JLoOAGEAAjo) [00:30:27] by **Trevor Rosen and egypt (James Lee)**
 
-####Rust
+#### Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
 * [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) [00:31:24] by **Alex Crichton**
 
-####Scala
+#### Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
 * [Scala Versus Java](https://www.youtube.com/watch?v=PKc5IwHG68k) [01:32:35] by **Dan Rosen**
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) [01:15:06] by **Martin Odersky**
@@ -316,16 +316,16 @@ mind you).
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
 
-####Swift
+#### Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
 * [Thinking in Swift](http://vimeo.com/105440181) by **Abizer Nasir**
 
-####VimL
+#### VimL
 * [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) [00:41:08] by **Chris Maiden** (not really about VimL, more of a general introduction into vim)
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) [00:38:51] by **Damian Conway**
 * [Write code faster: expert-level vim](https://www.youtube.com/watch?v=SkdrYWhh-8s) [00:41:09] by **Ben Orenstein** (not really expert level)
 
-####Miscellaneous
+#### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** 
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds**
@@ -333,20 +333,20 @@ mind you).
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans**
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert**
 
-###On theory
-####Thoughts on the Industry/Community
+### On theory
+#### Thoughts on the Industry/Community
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) [00:35:51] by **Jacob Kaplan-Moss**
 * [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin**
 * [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important)
 
-####Thoughts on Languages
+#### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup**
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan**
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele**
 * [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [00:23:11] by **Rob Pike**
 
-####Software Development
+#### Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele** 
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) [00:45:50] by **Joe Armstrong** 
@@ -372,10 +372,10 @@ mind you).
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North**
 * [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer**
 
-####Debugging
+#### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
 
-####Compilers/Interpreters
+#### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might**
 * [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) [00:44:53] by **Manuel Klimek**
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) [00:40:48] by **Andy Keep**
@@ -392,7 +392,7 @@ mind you).
 * [Write your own compiler in 24 hours](https://www.youtube.com/watch?v=-E2tu3MqR24) [01:04:07] by **Phil Trelford**
 * [The Java Virtual Machine is Over - The Polyglot VM is here](https://www.youtube.com/watch?v=OKJgMwTLmEY) [00:51:02] by **Marcus Lagergren**
 
-####Programming Language Design
+#### Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) [01:16:39] by **John Myles White**
 * [Eve](https://www.youtube.com/watch?v=5V1ynVyud4M) [00:46:03] by **Chris Granger**
@@ -408,16 +408,16 @@ mind you).
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner**
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler**
 
-####Data Structures & Algorithms
+#### Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
 
-####Databases
+#### Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) [01:06:24] by **Rich Hickey**
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens**
 * [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway**
 
-####Functional Programming
+#### Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** 
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** 
@@ -430,23 +430,23 @@ mind you).
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen**
 * [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY) [01:05:43] by **Scott Wlaschin**
 
-####Computer Graphics
+#### Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) [00:30:55] by **Steven Wittens**
 * [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) [00:53:45] by **Steven Wittens**
 
-####Computer Vision
+#### Computer Vision
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) [02:24:59] by **Victor Eruhimov**
 
-####Robotics
+#### Robotics
 * [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) [00:49:51] by **Katy Levinson** (not very formal, DefCon)
 * [No, Really... Robots and JavaScript?!](https://www.youtube.com/watch?v=3v75aX5-gSA) [00:36:26] by **Raquel Vélez**
 
-####UX/UI
+#### UX/UI
 * [User Interface (UX) [00:51:20] Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) by **Janne Jul Jensen**
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis**
 
-####Web Development
+#### Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** 
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** 
@@ -468,40 +468,40 @@ mind you).
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford**
 
-####System Architecture
+#### System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) [00:38:43] by **Mike Solomon** (long intro; starts about 8 minutes in)
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North**
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft**
 
-####Distributed Programming
+#### Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn**
 
-####Machine Learning
+#### Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) [01:07:24] by **Yann LeCun**
 * [Automatic Algorithm Invention with a GPU](https://youtu.be/xQDazGrKsuM) [01:02:04] by **Wesley Faler**
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills**
 
-####Theoretical Computer Science
+#### Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler**
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov**
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko**
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) [00:30:08] by **Dana S. Scott**
 * [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) [01:04:32] by **Jean Yang**
 
-####DevOps
+#### DevOps
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob**
 * [Salting things up in the sysadmin's world](https://www.youtube.com/watch?v=w1zcUNMwac0) [00:37:21] by **Juan Manuel Santos**
 
-####Mathematics
+#### Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
 * [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta**
 * [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) by **W. Hugh Woodin**
 * [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) [00:44:07] by **Michał Heller**
 
-####Misc
+#### Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes**
 * [DjangoCon EU 2013 Keynote](https://www.youtube.com/watch?v=yvMWUGx7Fx8) [00:31:10] by **Brandon Rhodes**
 * [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw) [00:58:38] by **Tim Ewald**
